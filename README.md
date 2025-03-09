@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Advanced Backend Architectures and exploring the latest trends in Deep Learning and Data Anlyst.</p>
+<p align="left">📚 I'm currently learning Advanced Backend Architectures and exploring the latest trends in Deep Learning and Data Analyst.</p>
 
 ###
 
